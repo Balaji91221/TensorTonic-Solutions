@@ -1,11 +1,27 @@
 # TensorTonic Solutions
 
-Welcome to my TensorTonic solutions repository!
+Personal solutions to machine-learning and deep-learning exercises from [TensorTonic](https://tensortonic.com).
 
-Here you'll find my solutions to various machine learning and deep learning problems from [TensorTonic](https://tensortonic.com).
+## Purpose
 
-## What is TensorTonic?
+Implementing an algorithm from scratch helps connect its mathematical definition to the code that performs each step. This repository is intended to collect that practice in one place.
 
-TensorTonic is a platform where you can implement core algorithms of Machine Learning from scratch.
+## Current contents
 
-This repository contains my personal solutions to these problems, automatically synchronized from the platform.
+The public repository currently contains this README only. No solution files, dependency manifest, or runnable implementation have been committed yet.
+
+| Item | Status |
+| --- | --- |
+| Repository introduction | Available |
+| Exercise solutions | Not yet present in this repository |
+| Installation commands | Not applicable to the current contents |
+
+## How to use this repository
+
+Browse the repository on GitHub for available solutions. At present, there is no package to install or application to run.
+
+The original repository introduction describes personal solutions synchronized from TensorTonic. This README does not imply that solution code is already available here.
+
+## Attribution
+
+Exercise references belong to [TensorTonic](https://tensortonic.com). This is a personal learning repository, not an official TensorTonic project.
